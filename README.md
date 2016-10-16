@@ -46,7 +46,7 @@ This is not about how to implement a specific pattern, but an illustration where
 1. Template Method
 	* 
 1. Visitor
-	* 
+	* Calculating taxes in different regions on sets of invoices would require many different variations of calculation logic. Implementing a visitor allows the logic to be decoupled from the invoices and line items.
 
 
 ## **Structural Patterns**
