@@ -32,7 +32,7 @@ This is not about how to implement a specific pattern, but an illustration where
 1. Mediator
 	* Mailing Lists & Chatrooms | Mediator decides how and what messages recipients should recieve. 
 1. Memento
-	* Undo Functionality | Snapshot of before and after action.
+	* Undo Functionality In Emails | Snapshot of before and after action.
 1. Null Object
 	* 
 1. Observer
