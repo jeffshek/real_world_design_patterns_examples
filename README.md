@@ -32,7 +32,7 @@ This is not about how to implement a specific pattern, but an illustration where
 1. Mediator
 	* Mailing Lists & Chatrooms | Mediator decides how and what messages recipients should recieve. 
 1. Memento
-	* Undo Functionality In Emails | Snapshot of before and after action.
+	* Undo Functionality | Snapshot of before and after action.
 1. Null Object
 	* 
 1. Observer
@@ -42,7 +42,7 @@ This is not about how to implement a specific pattern, but an illustration where
 1. Strategy
 	* 
 1. State
-	* 
+	* Aka a "mode". Emails contain state of "sent", "unsent".
 1. Template Method
 	* 
 1. Visitor
